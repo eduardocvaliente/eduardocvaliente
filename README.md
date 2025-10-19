@@ -5,7 +5,7 @@
 
 <br>
 
-## Habilidades 
+## Tecnologias 
 
   <a href="https://github.com/thuongtruong109/icoziv">
     <img
