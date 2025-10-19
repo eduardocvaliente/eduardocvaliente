@@ -25,7 +25,7 @@
 
 <br><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardocvaliente&show_icons=true&theme=merko)
 
           
           
